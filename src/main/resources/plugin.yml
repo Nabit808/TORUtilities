@@ -1,0 +1,11 @@
+name: TORUtilities
+version: '0.1'
+main: io.github.nabit808.tORUtilities.TORUtilities
+api-version: '1.21'
+authors: [ Nabit808 ]
+description: Plugin for the TOR server
+
+commands:
+  height:
+    description: Change your character's height
+    usage: /height <get/add/set/sub> [scale]
